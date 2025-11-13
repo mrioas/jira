@@ -16,6 +16,7 @@ Este es un servicio de automatismo de creacion de tickets ideal para Soporte de 
 * ```python -m venv .```  - Para crear el entorno virtual aislado del sistema anfitrion.
 * Las Shells disponible son Bash por defecto, CSH, FISH, Powershell (PS1) 
 * source bin/activate para activar el entorno, en este caso se usa ZSH que esta basado en BASH
+* Instalar las dependencias ```pip install -r requeriments.txt``` 
 
 ### Docker
 ### Python Env.
